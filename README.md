@@ -1,2 +1,2 @@
 # slider
-If you use my file, you should download the index.html and script.js.
+If you use my file, you should download the index.html and script.js. This slider is a beautiful, becouse it has navigation and scrolling. Module is in developent ...
